@@ -1,0 +1,5 @@
+com\bajaj\Q1BajajappApplication.class
+com\bajaj\model\WebhookGenerationInput.class
+com\bajaj\model\WebhookGenerationOutput.class
+com\bajaj\model\SQLQueryreq.class
+com\bajaj\service\WebServices.class
